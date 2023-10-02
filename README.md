@@ -1,4 +1,4 @@
-# alpha education
+# 𝛂
 
 The idea here is to create a nonprofit organization that acts as a certifying body for open-education to decentralize the system of higher education.
 
