@@ -1,6 +1,6 @@
 name: # Name of certificate
 
-path: # The collection of experiences that comprise this certificate
+experiences: # The collection of experiences that comprise this certificate
   -
     name: # Experience Name 1
     text: # Any relevant text, perhaps a link
