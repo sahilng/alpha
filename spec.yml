@@ -1,12 +1,4 @@
+# A basic certificate structure
 name: # Name of certificate
-
-experiences: # The collection of experiences that comprise this certificate
-  -
-    name: # Experience Name 1
-    text: # Any relevant text, perhaps a link
-    data: # A reference to any attached files
-  -
-    name: # Experience Name 2
-    text: # And so on
-    data: # And so forth
-  # Add as many of these as you like
+text: # Description of the certificate
+data: # Any relevant data
